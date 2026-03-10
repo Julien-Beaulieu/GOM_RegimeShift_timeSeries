@@ -1,5 +1,9 @@
 # GOM_RegimeShift_timeSeries
-This repository is for all the codes and data used for time series and delayed synchrony identification. This includes all of the data cleaning steps.
+This repository is for all the codes and data used for time series and delayed 
+synchrony identification. This includes all of the data cleaning steps.
+**The second derivatrive values for the intertidal variables refered to as the
+"repository table" in the main manuscript is in the main page of the repositort
+and entitled Sec_Derivative_Values.html.**
 
 
 ## List of Script
